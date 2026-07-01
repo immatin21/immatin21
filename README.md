@@ -141,11 +141,10 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=immatin21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://raw.githubusercontent.com/immatin21/immatin21/main/metrics.svg"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immatin21&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/immatin21/immatin21/main/metrics.svg"/>
 </div>
 
 <div align="center">
@@ -156,8 +155,7 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=immatin21&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=immatin21&theme=tokyonight&no-frame=true&margin-w=10" />
 </div>
 
 <br>
