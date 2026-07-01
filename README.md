@@ -141,10 +141,8 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/immatin21/immatin21/main/metrics.svg"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/immatin21/immatin21/main/metrics.svg"/>
 </div>
 
 <div align="center">
@@ -155,7 +153,6 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=immatin21&theme=tokyonight&no-frame=true&margin-w=10" />
 </div>
 
 <br>
