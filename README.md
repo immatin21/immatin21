@@ -109,7 +109,7 @@ Real-time chat, posts, stories & user connections with secure auth and automated
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
-🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 💻 Code *(add repo link)*
+🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +127,7 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
-🔗 [Live Demo](https://project-management-system-im21.netlify.app) &nbsp;•&nbsp; 💻 Code *(add repo link)*
+🔗 [Live Demo](https://project-management-system-im21.netlify.app) &nbsp;•&nbsp; 
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=immatin21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immatin21&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -169,8 +169,6 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 <img src="https://raw.githubusercontent.com/immatin21/immatin21/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
-<sub>⚙️ Requires a one-time GitHub Action setup — see the note below.</sub>
 
 <br>
 
