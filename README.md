@@ -1,10 +1,9 @@
-````md
 <div align="center">
 
 # Hey, I'm Matin Mondal 👋
 ### Full Stack Developer (MERN) • Backend Enthusiast • Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+real-world+full-stack+applications;Passionate+about+Backend+Engineering;Exploring+Docker%2C+Redis+and+AI+Integrations;Open+to+Entry-Level+Software+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+real-world+full-stack+applications;Passionate+about+Backend+Engineering;Exploring+Docker%2C+Redis+and+System+Design;Open+to+Entry-Level+Software+Roles" />
 
 <p>
   <a href="https://linkedin.com/in/matin-mondal">
@@ -16,156 +15,138 @@
   <a href="mailto:mondalmatin04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="tel:+916354085535">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=immatin21&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=immatin21&label=Profile+Views&color=58A6FF&style=flat" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/immatin21?label=Followers&style=flat&color=58A6FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=google-jobs&logoColor=white"/>
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```js
 const matin = {
-  education: "BCA (Honours) - The Maharaja Sayajirao University of Baroda",
   role: "Aspiring Full Stack Developer",
-  location: "Gujarat, India",
-  currentlyLearning: [
-    "Docker",
-    "Redis",
-    "System Design",
-    "Scalable Backend Architecture",
-    "AI Integrations"
-  ],
-  askMeAbout: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "REST APIs",
-    "Authentication",
-    "Deployment"
-  ],
+  education: "BCA (Honours) — The Maharaja Sayajirao University of Baroda",
+  location: "Vadodara, Gujarat, India",
+  stack: ["React", "Node.js", "Express.js", "MongoDB", "Redux Toolkit"],
+  currentlyLearning: ["Docker", "Redis", "System Design", "AI Integrations"],
+  lookingFor: "Entry-Level Full Stack / Backend Developer roles",
   motto: "Learn, Build, Improve, Repeat."
 };
-````
+```
 
-* 🎓 Final Year BCA Student
-* 💻 Passionate about building real-world products using the MERN Stack
-* 🌱 Currently diving deeper into Backend Engineering and DevOps
-* 🚀 Love transforming ideas into deployed applications
-* 🎯 Looking for Entry-Level Software Development opportunities
+- 🎓 BCA (Honours), Maharaja Sayajirao University of Baroda
+- 💻 I build production-style full-stack apps using the **MERN** stack — not just tutorials, but real, deployed products
+- 🔍 Deep interest in backend architecture — clean REST APIs, auth systems, and scalable data models
+- 🌱 Currently leveling up on Docker, Redis caching, and system design fundamentals
+- 🎯 Actively seeking an entry-level Full Stack / Backend role where I can contribute and keep growing
+- ⚡ I enjoy the last-mile part of building — going from "it works locally" to "it's live and someone's using it"
 
----
+<br>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap"/>
 </p>
 
-### Backend
-
+**Database**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge"/>
 </p>
 
-### Database
-
+**Tools & DevOps**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,netlify"/>
 </p>
 
-### DevOps & Tools
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,netlify" />
-</p>
+<br>
 
----
+## 💼 Featured Projects
 
-# 🌱 Currently Exploring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🐳 Docker & Containerization
-* ⚡ Redis & Caching Strategies
-* 🏗️ System Design Fundamentals
-* 🤖 AI Integration in Web Applications
-* 🔄 Background Jobs & Event Driven Architecture
+### 🚀 PingUp
+**Full-stack social media platform**
 
----
+Real-time chat, posts, stories & user connections with secure auth and automated background jobs.
 
-# 💼 Featured Projects
+**Highlights**
+- 🔐 Auth & protected routes via Clerk
+- 📡 Real-time messaging (Server-Sent Events)
+- ☁️ Media storage via ImageKit
+- ⏱️ Auto story-expiry via Inngest jobs
 
-## 🚀 PingUp - Social Media Platform
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
-A full-stack social platform that allows users to connect, chat, share stories and posts in real-time.
+🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 💻 Code *(add repo link)*
 
-### Features
+</td>
+<td width="50%" valign="top">
 
-* Real-time messaging
-* Story sharing with automatic expiry
-* Authentication and protected routes
-* Media uploads and optimization
-* Responsive modern UI
+### 📚 AcadFlow
+**Education project management system**
 
-### Tech Stack
+Full-stack workflow platform for students, supervisors & admins to manage academic projects end-to-end.
 
-`React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Clerk` `ImageKit` `Inngest`
+**Highlights**
+- 🔐 JWT auth with role-based access control
+- 📁 File uploads via Multer + Cloudinary
+- 📊 Analytics dashboard with Recharts
+- ✉️ Automated emails via BrevoAPI
 
-🔗 **Live:** https://ping-up-phi-liard.vercel.app
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
----
+🔗 [Live Demo](https://project-management-system-im21.netlify.app) &nbsp;•&nbsp; 💻 Code *(add repo link)*
 
-## 📚 AcadFlow - Education Project Management System
+</td>
+</tr>
+</table>
 
-A project workflow management platform for students, supervisors and administrators.
+<div align="center"><i>📌 More on <a href="https://github.com/immatin21">github.com/immatin21</a></i></div>
 
-### Features
+<br>
 
-* Role-based authentication
-* Analytics dashboard
-* Project tracking
-* Email automation
-* File uploads and management
-
-### Tech Stack
-
-`React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
-
-🔗 **Live:** https://project-management-system-im21.netlify.app
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=immatin21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=immatin21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=immatin21&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immatin21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=immatin21&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immatin21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
 
 <div align="center">
 
@@ -173,29 +154,38 @@ A project workflow management platform for students, supervisors and administrat
 
 </div>
 
----
+<div align="center">
 
-# 🤝 Connect With Me
+<img src="https://github-profile-trophy.vercel.app/?username=immatin21&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/matin-mondal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="mailto:mondalmatin04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="https://matinportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+## 🐍 Contribution Snake
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/immatin21/immatin21/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<sub>⚙️ Requires a one-time GitHub Action setup — see the note below.</sub>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/matin-mondal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mondalmatin04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://matinportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
 
 ### 💡 "Every expert was once a beginner who kept building."
 
 ⭐ If you like my work, consider starring my repositories.
 
 </div>
-```
