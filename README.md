@@ -102,6 +102,7 @@ const matin = {
 Full-stack platform that rewrites resumes for a target role using AI, scores them against ATS systems, and gates access through a subscription system.
 
 **Highlights**
+
 - 🔐 JWT auth (access/refresh rotation) + Google OAuth
 - ⚙️ Async AI pipeline via BullMQ job queue + Gemini API
 - 📈 ATS scoring with versioned optimization history
@@ -109,9 +110,10 @@ Full-stack platform that rewrites resumes for a target role using AI, scores the
 
 `React` `TanStack Query` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ`
 
-🔗 [Live Demo](https://resume-optimizer-lyart.vercel.app) &nbsp;•&nbsp; 
+🔗 [Live Demo](https://resume-optimizer-lyart.vercel.app)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📚 AcadFlow
@@ -120,6 +122,7 @@ Full-stack platform that rewrites resumes for a target role using AI, scores the
 Full-stack workflow platform for students, supervisors & admins to manage academic projects end-to-end.
 
 **Highlights**
+
 - 🔐 JWT auth with role-based access control
 - 📁 File uploads via Multer + Cloudinary
 - 📊 Analytics dashboard with Recharts
@@ -127,25 +130,33 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
-🔗 [Live Demo](https://project-management-system-im21.netlify.app) &nbsp;•&nbsp; 
+🔗 [Live Demo](https://project-management-system-im21.netlify.app)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🚀 PingUp
 **Full-stack social media platform**
 
-Real-time chat, posts, stories & user connections with secure auth and automated background jobs.
+Real-time chat, posts, stories & user connections with secure authentication and automated background jobs.
 
 **Highlights**
+
 - 🔐 Auth & protected routes via Clerk
-- 📡 Real-time messaging (Server-Sent Events)
+- 📡 Real-time messaging using Server-Sent Events
 - ☁️ Media storage via ImageKit
-- ⏱️ Auto story-expiry via Inngest jobs
+- ⏱️ Automatic story expiry via Inngest jobs
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
-🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 
+🔗 [Live Demo](https://ping-up-phi-liard.vercel.app)
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 </tr>
