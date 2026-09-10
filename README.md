@@ -96,20 +96,20 @@ const matin = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 PingUp
-**Full-stack social media platform**
+### 🎯 Resume Optimizer
+**AI-powered resume optimization SaaS**
 
-Real-time chat, posts, stories & user connections with secure auth and automated background jobs.
+Full-stack platform that rewrites resumes for a target role using AI, scores them against ATS systems, and gates access through a subscription system.
 
 **Highlights**
-- 🔐 Auth & protected routes via Clerk
-- 📡 Real-time messaging (Server-Sent Events)
-- ☁️ Media storage via ImageKit
-- ⏱️ Auto story-expiry via Inngest jobs
+- 🔐 JWT auth (access/refresh rotation) + Google OAuth
+- ⚙️ Async AI pipeline via BullMQ job queue + Gemini API
+- 📈 ATS scoring with versioned optimization history
+- 💳 Razorpay subscriptions (free tier + ₹99/mo Pro)
 
-`React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
+`React` `TanStack Query` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ`
 
-🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 
+🔗 [Live Demo](https://resume-optimizer-lyart.vercel.app) &nbsp;•&nbsp; 
 
 </td>
 <td width="50%" valign="top">
@@ -128,6 +128,24 @@ Full-stack workflow platform for students, supervisors & admins to manage academ
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
 🔗 [Live Demo](https://project-management-system-im21.netlify.app) &nbsp;•&nbsp; 
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 PingUp
+**Full-stack social media platform**
+
+Real-time chat, posts, stories & user connections with secure auth and automated background jobs.
+
+**Highlights**
+- 🔐 Auth & protected routes via Clerk
+- 📡 Real-time messaging (Server-Sent Events)
+- ☁️ Media storage via ImageKit
+- ⏱️ Auto story-expiry via Inngest jobs
+
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
+
+🔗 [Live Demo](https://ping-up-phi-liard.vercel.app) &nbsp;•&nbsp; 
 
 </td>
 </tr>
